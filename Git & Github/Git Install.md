@@ -24,3 +24,6 @@
     윈도우 기본 터미널에 Git Bash 프로파일 추가
 ```
 6. 
+
+
+https://taewow.tistory.com/13
