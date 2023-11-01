@@ -31,12 +31,33 @@ Git의 특징
 + Staging Area: 저장소를 커밋하기 전에 Commit을 준비하는 위치.
 + Branch(가지, 분기점): 작업을 할 때에 현재 상태를 복사하여 Branch에서 작업을 한 후에 완전하다 싶을 때 Merge하여 작업을 합니다.
 + Head: 현재 작업중인 Branch를 가리킵니다.
-+ Merge(병합): 다른 Branch의 내용을 현재 Branch로 가져와 합치는 작업을 의미합니다.
++ Merge(병합): 다른 Branch의 내용을 현재 Branch로 가져와 합치는 작업을 합니다.
 + Main(= 구 master): 이전에는 Master Branch로 Merge가 되었지만, Master라는 단어가 흑인을 비하하는 단어라고 해서 Main으로 통합되었습니다.
 
 ## 명령어
-
-
++ git --version: 설치되어 있는지 확인하고, 버전을 확인합니다.
++ git init: Git 저장소를 초기화합니다.
++ git help: Git의 명령어의 세부 옵션을 표시합니다.
++ git status: 저장소의 상태를 체크합니다.
++ git clone: 원격저장소의 저장소를 내 local에서 이용할 수 있게 그대로 복사해서 가져옵니다.
++ git add: 
++ git commit: 로컬 컴퓨터에서 작업할 때, 저장소의 변경된 내용을 로컬 저장소에 적용합니다.
++ git pull:
++ git log: Commit 내역을 확인할 수 있습니다.
++ git branch: 여러 협업자와 작업할 때 주로 사용하며, 새로운 Branch를 만들고 독립적인 공간을 만듭니다.
++ git checkout: 독립된 작업 공간인 Branch를 자유롭게 이동할 수 있습니다. 만약 Main(= 구 Master) Branch를 들여다 보고 싶을 때 git check out main을 사용할 수 있습니다.
++ git merge: Branch에서 작업을 끝내고, 모든 협업자가 볼 수 있는 Main(= 구 Master) Branch로 병합합니다.
++ config 설정:
+```
+git config --global (Github 가입 이름)
+git config --global (Github 가입 이메일)
+비밀번호 : (Github 가입 비밀번호)
+```
++ remote 등록:
+```
+git remote add origin (Github 주소)
+```
+![image](https://github.com/heerim0223/Test/assets/74406700/7318c5b8-a93b-485a-afeb-559c04b39dff)
 
 ## Git Commit
 
