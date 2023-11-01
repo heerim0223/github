@@ -24,13 +24,26 @@ Git의 특징
 
 ## Git Install
 
+## 기본 용어
++ Repository(저장소): 저장소는 히스토리, 태그, 소스의 가지치기 혹은 Branch에 따라 버전을 저장합니다. 저장소를 통해 작업자가 변경한 모든 히스토리를 확인할 수 있습니다.
++ Working Tree: 저장소의 어느 한 시점에서 바라보는 작업자의 현재 시점.
++ Commit: 현재 변경된 작업 상태를 점검을 마치면 확정하고 저장소에 저장하는 작업.
++ Staging Area: 저장소를 커밋하기 전에 Commit을 준비하는 위치.
++ Branch(가지, 분기점): 작업을 할 때에 현재 상태를 복사하여 Branch에서 작업을 한 후에 완전하다 싶을 때 Merge하여 작업을 합니다.
++ Head: 현재 작업중인 Branch를 가리킵니다.
++ Merge(병합): 다른 Branch의 내용을 현재 Branch로 가져와 합치는 작업을 의미합니다.
++ Main(= 구 master): 이전에는 Master Branch로 Merge가 되었지만, Master라는 단어가 흑인을 비하하는 단어라고 해서 Main으로 통합되었습니다.
+
+## 명령어
+
+
 
 ## Git Commit
 
 
 ## 참고 문헌
 1. https://hoohaha.tistory.com/104
-2. 2
+2. https://velog.io/@wlgns410/git
 3. 3
 4. 4
 5. 5
