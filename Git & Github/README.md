@@ -22,7 +22,8 @@ Git의 특징
 3. Github는 크고 활발한 개발자 커뮤니티를 가지고 있어 다른 개발자들과 컨택하고, 자신의 작업을 공유하기 좋습니다.(커뮤니티)
 ```
 
-## Git Install
+## Git Install(2.42.0 기준)
+[Git Install 방법](https://github.com/heerim0223/github/blob/main/Git%20%26%20Github/Git%20Install.md)
 
 ## 기본 용어
 + Repository(저장소): 저장소는 히스토리, 태그, 소스의 가지치기 혹은 Branch에 따라 버전을 저장합니다. 저장소를 통해 작업자가 변경한 모든 히스토리를 확인할 수 있습니다.
@@ -63,9 +64,11 @@ git remote add origin (Github 주소)
 
 
 ## 참고 문헌
-1. https://hoohaha.tistory.com/104
-2. https://velog.io/@wlgns410/git
-3. 3
-4. 4
+1. [Git](https://git-scm.com/)
+2. [Github](https://github.com/)
+3. [[GitHub] 깃허브란? 깃허브의 장점과 단점](https://hoohaha.tistory.com/104)
+4. [wlgns410.log - git](https://velog.io/@wlgns410/git)
 5. 5
+6. 6
+7. 7
 
