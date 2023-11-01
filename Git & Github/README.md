@@ -66,9 +66,11 @@ git remote add origin (Github 주소)
 ## 참고 문헌
 1. [Git](https://git-scm.com/)
 2. [Github](https://github.com/)
-3. [[GitHub] 깃허브란? 깃허브의 장점과 단점](https://hoohaha.tistory.com/104)
-4. [wlgns410.log - git](https://velog.io/@wlgns410/git)
-5. 5
-6. 6
-7. 7
+3. [WikiPedia - Git](https://ko.wikipedia.org/wiki/%EA%B9%83_(%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4))
+4. [WikiPedia - Github](https://ko.wikipedia.org/wiki/%EA%B9%83%ED%97%88%EB%B8%8C)
+5. [[GitHub] 깃허브란? 깃허브의 장점과 단점](https://hoohaha.tistory.com/104)
+6. [wlgns410.log - git](https://velog.io/@wlgns410/git)
+7. [[GITHUB 입문] Git 설치하기(2.35.1 이상, 상세한 설치법)](https://taewow.tistory.com/13)
+8. [Git | Git 초기 세팅 및 add, commit, push 해보기](https://velog.io/@suasue/Git-Git-%EC%B4%88%EA%B8%B0-%EC%84%B8%ED%8C%85-%EB%B0%8F-add-commit-push-%ED%95%B4%EB%B3%B4%EA%B8%B0)
+9. [[Git] local 변경 사항 commit하기 : git commit, add, status, init](https://choiiis.github.io/git/how-to-commit-local-change/)
 
